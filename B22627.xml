@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great &amp; bloody visions, interpreted by Arise Evans fore-telling the strange and wonderful things that will befall the Common wealth of England, Scotland, and Ireland, the establishing of a glorious government under His Highness the Lord Protector, and the setling of peace and happiness in all these dominions : likewise, the restoring of the churches from defiling and robbing, and the preserving of all sacred rites and ordinances belonging to those glorious sanctuaries and Christian temples : together with the signification of the coming in of the white doves : the appearing of Charles's Wain, the dissolution of tyranny, the restoring all men to their just rights, and pristine liberties, and the vanishing away of all oppressors, traytors and tyrants.</title>
+            <author>Evans, Arise, b. 1607.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22627</idno><idno type="EEBO-CITATION">13078157</idno>
+  <idno type="VID">197834</idno>
+  <idno type="EEBO-PROQUEST">2240849342</idno>
+  
+            <idno type="STC">Wing E3459</idno>
+            <idno type="OCLC">13078157</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197834)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 263:E224, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great &amp; bloody visions, interpreted by Arise Evans fore-telling the strange and wonderful things that will befall the Common wealth of England, Scotland, and Ireland, the establishing of a glorious government under His Highness the Lord Protector, and the setling of peace and happiness in all these dominions : likewise, the restoring of the churches from defiling and robbing, and the preserving of all sacred rites and ordinances belonging to those glorious sanctuaries and Christian temples : together with the signification of the coming in of the white doves : the appearing of Charles's Wain, the dissolution of tyranny, the restoring all men to their just rights, and pristine liberties, and the vanishing away of all oppressors, traytors and tyrants.</title>
+                  <author>Evans, Arise, b. 1607.</author>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Convert ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197834:1"/>
+            <p>The great &amp; bloody Visions; INTERPRETED BY Arise Evans, Fore-telling the strange and wonderful things that will befall the Common wealth of England, Scotland, and Ireland, the establishing of a glorious Government under his High<g ref="char:EOLhyphen"/>ness the Lord Protector, and the setling of Peace and happiness in all these Dominions.</p>
+            <p>Likewise, the restoring of the Churches from defiling and robbing, and the preserving of all sacred Rites and Ordinances belonging to those glorious Sanctuaries, and Christian Temples.</p>
+            <p>Together with the signification of the coming in of the white Doves, the appearing of Charles's Wain, the dissolution of Tyranny, the restoring all men to their just Rights, and pristine Li<g ref="char:EOLhyphen"/>berties, and the vanishing away of all Oppressors, Traytors and Tyrants.</p>
+            <figure>
+               <figDesc>Decorative band consisting of French fleur-de-lis with a Tudor rose and Scottish thistle on either side</figDesc>
+            </figure>
+            <p>LONDON, Printed for G. CONVERT, and are to be sold at the West end of PAULS, and at the Royal Exchange in Cornhil, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:197834:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:197834:2"/>
+            <head>The Bloody Vision,</head>
+            <p>I Saw in a Vision revealed unto me as I was standing upon stone-steps, at a place in London, there came a man riding before me, and made a stand against me, and then I saw a Coach coming be<g ref="char:EOLhyphen"/>tween the man and me passing by, and in the Coach was a woman cloathed in scarlet, and one who stood by me, said: Behold this Wo<g ref="char:EOLhyphen"/>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n! how do you like of her? And I answered, I liked none but mine own; and then the man who was on the horse back said unto me, then it seemeth you like no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, but your own, 'tis well: then there came 6 youths in blew caps, &amp; stood between the man on horseback and me, and said, Behold! take notice of the Moon, and thereupon I looked up and saw a sign post, with the sign of the Moon hanging as a sign under it, which I beholding, presently there appeared a spot of blood upon the picture of the Moon which spot spread it self over all the Moon, and the blood sparkled up upon the skey and overspread the same. Then suddenly falling down upon my knees, and lifting up my hands to heaven, I called upon the Lord to be my Protector, and im<g ref="char:EOLhyphen"/>mediatly upon that there appeared by the picture of the Moon and a man sitting, having a candle light in his hand; then came another man with a candle unlighred in his hand, which he lighted at the other candle. And then the man who sat by the Moon spake and said I thank you all for beholding the same. Then there came a Char<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot
+<pb n="4" facs="tcp:197834:3"/> with milk white horses, like as if it had come out of a Court by the place where I stood; and as they approached near me, I thought them to be of fire, so sparkling, that the heat thereof came mightily unto me, whereby I was forced to shrink back from the extremity thereof, and returning two or three steps back, I beheld the Chariot and hor<g ref="char:EOLhyphen"/>ses coming up the steps after me: thus going back, and seeking for some place for shelter to keep my self from the heat thereof; but finding neither doors nor shop windowes open, I could have no place of safefuard. And seeing before me another Cha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iot with horses ap<g ref="char:EOLhyphen"/>proachi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g toward me, I was greatly troubled in mind; and then behol<g ref="char:EOLhyphen"/>ding upon my right hand a street turning another way, in which <hi>I</hi> thought to be free, entred the same: And having gone but a little way therein, it was beset in like manner. And there came foremost a man having a long light like unto a Torch in his hand, which when <hi>I</hi> saw <hi>I</hi> thought it was Doom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-day, and fell to the ground as a dead man, and could not move hand nor foot, yet had my remembrance per<g ref="char:EOLhyphen"/>fect; and when he came unto me, he said, Who is here? but <hi>I</hi> said nothing unto him, and then he strode on foot over me, and lift me up from the earth, and held me in his arm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and blue into mine ears three or four time<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: then said he there was no means to help me, but to be washed with the blood of I<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sus Christ: so soon as he had spoken, <hi>I</hi> perceived my self to be naked, and then he washed and bathed my bo<g ref="char:EOLhyphen"/>dy all in blood; which b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing done, he departed and went forward, and <hi>I</hi> thought he drew me after him. Then presently <hi>I</hi> was brought like a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if <hi>I</hi> had been in some great Church, wherein was much Timber<g ref="char:EOLhyphen"/>work, and there <hi>I</hi> saw men w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shing and besmearing all the posts and timber with blood, and then <hi>I</hi> seemed to depart out of the same place; but coming to the door of it, <hi>I</hi> hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were the rushi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g of a mighty wind, with a noise of chariots and horses, with beholding of sumptuous buildings and multitudes of m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n; and being astonished therewith, <hi>I</hi> returned into the Church again; and then by that time <hi>I</hi> skemed to have a great bundle of bladders about me, which vanished all but three, whereof one was very little, and the rest were very great, especially one of them, and these two seemed like two earthen pots, which wearied me to bear. And as <hi>I</hi> went forward in a back way fly<g ref="char:EOLhyphen"/>ing from the Church, <hi>I</hi> heard a voyce, saying Go apace: and when <hi>I</hi>
+               <pb n="5" facs="tcp:197834:3"/> came to the end, at a place where <hi>I</hi> could go nr further, <hi>I</hi> thought these pots did diminish mightily; and there came a voyce unto me, saying, there will not be left the worth of a half peny remaining of all this sight; so <hi>I</hi> awaked, But being in fear and amazement at this Bloo<g ref="char:EOLhyphen"/>dy Vision, within a quarter of an hour after fell into a Trance again, and saw another Vision, which is as followeth: <hi>I</hi> beheld, and lo, <hi>I</hi> was in a field, as <hi>I</hi> thought, newly sown with Wheat, and as <hi>I</hi> beheld, <hi>I</hi> saw upon the Land sowed a company of Doves, being milk white, and all of them stood in a round Ring, or Circle, and in the midst was one<g ref="char:EOLhyphen"/>ly one alone by himself, which surpassed all the rest in brightness, shi<g ref="char:EOLhyphen"/>ning like the Sun-beams in its brightness, so did this Dove appear in brightness and glory, and <hi>I</hi> awaked again. These were the Visions which Mr. Farly related unto me; <hi>I</hi> shall now give you the interpre<g ref="char:EOLhyphen"/>tation thereof, as <hi>I</hi> gave it to him then.</p>
+            <div type="part">
+               <head>The interpretation of the first Vision.</head>
+               <p>Whereas you saw your self standing upon stone steps in London, it signifies the firmness thereof. And whereas you saw a Coach with a Woman in it all clothed in scarlet passing by, signifies a bloody e<g ref="char:EOLhyphen"/>nemy that will suddenly vanish away and be consumed. And whereas you saw fix youths all in blue, they signifie Charles his Wain, and their Voyce which said; Behold, take notice of the Moon, signifies the Comet or Blazing. Star, which Star signified the dissolution of the late power. And whereas you saw a sign post with the sign of the Moon to it, and of the spot of blood that appeared upon ii, and over<g ref="char:EOLhyphen"/>spread both it and the sky; by the sign of the Moon is signified, the multiplicity of Divisions. And whereas you saw a man sitting by the picture of the Moon with the light like a candle in his hand, and a<g ref="char:EOLhyphen"/>nother man coming to him with a candle unlighted, signifies the is<g ref="char:EOLhyphen"/>suing forth Commissions by an eminent Commander for aid and as<g ref="char:EOLhyphen"/>sistance. And whereas you saw a Chariot with milk-white horse<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> co<g ref="char:EOLhyphen"/>ming out of a Court, and the Chariot of fire, signifies a violent inte<g ref="char:EOLhyphen"/>rest to be set up, so that all will in that day be forced to shut up their shop windows and doors for fear, so that he which is without doores shal not finde a place wherein to hide his head, but the violating of Tyranny restores us to our former pristine liberty.</p>
+               <pb n="6" facs="tcp:197834:4"/>
+               <p>And whereas you saw a stseet on your right hand in the which you thought to escape, but found it beset with a multitude of men, &amp;c, The fore-most man signifies an emi<g ref="char:EOLhyphen"/>nent Commander, who shal lovingly send forth his Decla<g ref="char:EOLhyphen"/>ration to the people; but they wil not come in to him, nor stir no more then you did, when the man calld to you, took you up, and blew in your ears: then seeing that he must do it, this Champion wil resolve to proceed with fire and sword, and wash the Nation of its enemies with blood. And whereas you saw that you came into a great Church where men washed all the posts with blood, it signifies that God will now avenge himself on such as have destroyed, robbed, and defiled his Sanctuaries; for if the Lord Jesus was fo sore offended with those that sold Doves for the sacrifice in the Temple at Jerusalem, and so zealous for it that he would not suffer any to carry a Ves<g ref="char:EOLhyphen"/>sel through it, how much more is he offended with those that would so highly have abused the Christian Tem<g ref="char:EOLhyphen"/>ples and the Ministery, had they not been prevented by his Highness the Lord Protector. And whereas you saw your self departing out of the Church, it signifies that in the ci<g ref="char:EOLhyphen"/>ty of London shal arise great controversies. And whereas you saw that as you returned again, and found another way to go out of the Church, you were burthened with a bundle of blown Bladders, which vanished from you as you went, saving onely three remained: By which is signified, that those which delighted themselves in wicked and fruitless notions, will be troubled and get together, being
+<pb n="7" facs="tcp:197834:4"/> assured, that they shall now be called to an account for their works, yet thinking to do some feats by raising com<g ref="char:EOLhyphen"/>bustions to preserve their own interest, but they shall be cut off in the bud one after another, except three that shal escape:, And whereas you saw the bladders remaining, and that one of them was a vere little one, and the other two very great ones, &amp;c. it signifies, that three eminent men shal have their honour eclipsed, and at last made shorter by the head.</p>
+               <p>And whereas last of all you heard a voyce, saying, that there will not be left the worth of a half-peny of all this sight, it signifies that of all the riches and glory that hath been gotten unjustly, there shal not be left the worth of a half-peny.</p>
+               <p>This is the interpretation of your first Prophecy Mr. Farly, which indeed is a terrible one, and I could wish with all my heart, that if it be possible it come not to pass: But rather that God would be plea<g ref="char:EOLhyphen"/>sed to pardon the sins of this Land, and to give them grace to subject themselves to the peace and tranquility of the Nation. Now after I had interhreted this bloody Vision he was very well satisfied in his Spirit, and desired me to interpret the other Vision, which he had within a quarter of an hour after the former, but he said it never trou<g ref="char:EOLhyphen"/>bled him as the other did, and I said it shall be also done; for it may be there is more of comfort in that, then there is of sorrow in this.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:197834:5"/>
+               <head>The interpretation of the second Vision.</head>
+               <p>THen said I, whereas you saw your self in a field-newly sown with Wheat; that signifies a new Government to be established in Brittain, that is, the Commonwealth of England, Scotland, and Ire<g ref="char:EOLhyphen"/>land, more glorious then ever was upon earth. And whereas you saw a company of milk white Doves upon that field, all in a round Ring, or circle: The Ring, or Circle, signifies the endless, everlasting, and e<g ref="char:EOLhyphen"/>verstanding Court that shal be established. And the company of milk white Doves signifies the spotless Saints that have continued faith<g ref="char:EOLhyphen"/>ful to his Highness. Therefore they and their seed shal tryumph glo<g ref="char:EOLhyphen"/>riously for ever. And whereas you saw one Dove alone in the middle of the Ring, or Circle, which did shine like the Sun in brightness; by that Dove is signified his Highness, who in due time will shine like the Sun over all the earth, to answer the expectation of all Nations, and fulfill the promise of our Lord Jesus; which is the sole desire, and fervent prayer of him, who remains, yours in King Christ,</p>
+            </div>
+         </div>
+         <closer>
+            <signed>Arise Evans.</signed>
+         </closer>
+         <trailer type="illustration">
+            <figure/>
+         </trailer>
+      </body>
+   </text>
+</TEI>
